@@ -22,3 +22,6 @@ L'application **HelloToast** a été développée en utilisant un `ConstraintLay
 1. Clonez le projet.
 2. Ouvrez le projet dans Android Studio.
 3. Lancez l'application sur un émulateur ou un appareil Android.
+
+## Video descriptif
+[ASMAE.webm](https://github.com/user-attachments/assets/20431a97-e3b9-4d9b-9410-07137ab0c0d1)
